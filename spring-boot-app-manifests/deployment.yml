@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: spring-boot-app
-        image: docker72427/cicd-pipeline:ldr
+        image: docker72427/cicd-pipeline:1
         ports:
         - containerPort: 8080
